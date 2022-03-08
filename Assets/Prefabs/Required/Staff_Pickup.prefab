@@ -318,7 +318,7 @@ GameObject:
   - component: {fileID: 3591557955026528205}
   - component: {fileID: 3591557955026528202}
   m_Layer: 15
-  m_Name: Staff_Pickup 1
+  m_Name: Staff_Pickup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

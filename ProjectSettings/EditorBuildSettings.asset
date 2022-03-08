@@ -6,16 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes_Assignment/Level 1.unity
+    path: Assets/~Assignment/Full Level.unity
     guid: 26dfaab476091ba4b8089ef9cbe1c09a
   - enabled: 1
-    path: Assets/Scenes_Assignment/Level 2.unity
+    path: Assets/~Assignment/Level 2.unity
     guid: 3f4f1c34063eb324c9b623ba263ec17b
   - enabled: 1
-    path: Assets/Scenes_Assignment/Level 3.unity
+    path: Assets/~Assignment/Level 3.unity
     guid: 346ebca64c477c445bb0a00070509d76
   - enabled: 1
-    path: Assets/Scenes_Assignment/~EndOfGame.unity
+    path: Assets/~Assignment/~EndOfGame.unity
     guid: c65f04d88e8847d4dbf6e44296752a8d
   - enabled: 1
     path: Assets/2DGamekit/Scenes/Start.unity
@@ -41,4 +41,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 1
+    path: 
+    guid: 4cdd4291b87f21f4db196e53b52a0c37
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: 9faf4197083a0f548994708f4963a71d
+  - enabled: 1
+    path: Assets/TemplateTest.unity
+    guid: 073fecfd91f9e824296bceed276b415f
+  - enabled: 1
+    path: Assets/~Assignment/PrototypesPrototype1.unity
+    guid: 5161221cea54ee843bb34eee54432615
+  - enabled: 1
+    path: Assets/~Assignment/Prototypes/Prototype1.unity
+    guid: 4050e01039b998249b2804937798897f
   m_configObjects: {}
